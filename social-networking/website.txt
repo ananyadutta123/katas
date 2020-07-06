@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.socialnetworking.com/timeline.css">
+<body>
+
+<!-- Content will go here -->
+
+</body>
+</html>
+
+<!-- Navigation -->
+<nav class="w3-bar w3-black">
+  <a href="#home" class="timeline-button timeline-bar-item">Home</a>
+  <a href="#Publishing" class="timeline-button timeline-bar-item">Publishing</a>
+  <a href="#Timeline" class="timeline-button timeline-bar-item">Timeline</a>
+  <a href="#Following" class="timeline-button timeline-bar-item">Following</a>
+</nav>
+
+<!-- Footer -->
+<footer class="timeline-container timeline-padding-64 timeline-center timeline-black timeline-xlarge">
+  <a href="#"><i class="fa fa-facebook-official"></i></a>
+  <a href="#"><i class="fa fa-pinterest-p"></i></a>
+  <a href="#"><i class="fa fa-twitter"></i></a>
+  <a href="#"><i class="fa fa-flickr"></i></a>
+  <a href="#"><i class="fa fa-linkedin"></i></a>
+  <p class="w3-medium">
+    Powered by <a href="https://www.socialnetworking.com/default.asp" target="_blank">timeline.css</a>
+  </p>
+</footer>
